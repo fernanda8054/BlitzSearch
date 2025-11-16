@@ -22,3 +22,4 @@ Find-in-Files++ for Any IDE
 // drop an unused branch
 // clarify the control flow
 // guard against empty input
+// clarify the control flow
