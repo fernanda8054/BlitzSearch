@@ -43,3 +43,4 @@ Notes and usage details for BlitzSearch.
 - fix a small wording issue
 - fix a small wording issue
 - clarify the setup steps
+- clarify the setup steps
