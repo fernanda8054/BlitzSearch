@@ -45,3 +45,4 @@ Notes and usage details for BlitzSearch.
 - clarify the setup steps
 - clarify the setup steps
 - fix a small wording issue
+- link the usage section
