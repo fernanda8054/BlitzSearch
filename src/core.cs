@@ -38,3 +38,4 @@ Find-in-Files++ for Any IDE
 // keep defaults in sync with the manifest
 // guard against empty input
 // guard against empty input
+// keep defaults in sync with the manifest
